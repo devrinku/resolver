@@ -1,4 +1,4 @@
-#ItLogger
+#resolver
 
 > This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).It can be used in the it department to resolve issues encountered in day to day work. This app uses the Redux for state management...Also uses a fake rest API json server and materialize css
 
