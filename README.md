@@ -1,6 +1,6 @@
 # resolver
 
-> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).It can be used in the it department to resolve issues encountered in day to day work. This app uses the Redux for state management...Also uses a fake rest API json server and materialize css
+> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).It can be used in the office or any department to resolve issues encountered in day to day work. This app uses the Redux for state management...Also uses a fake rest API json server and materialize css
 
 You can add contacts,logs,techs.Also can edit or delete the tasks depending upon task completion..
 
